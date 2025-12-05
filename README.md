@@ -1,22 +1,43 @@
 # Polymarket Trading Bot
 
-> Advanced automated trading bot for Polymarket that monitors mempool transactions and executes frontrunning strategies with configurable gas pricing and trade sizing.
+> Advanced automated **Polymarket trading bot** that monitors mempool transactions and executes frontrunning strategies with configurable gas pricing and trade sizing. The most sophisticated **Polymarket bot** for automated trading on Polygon blockchain.
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 
+### 📱 Get Support & Contact
+
+**Need help with setup, have questions, or want to collaborate?**
+
+👉 **[Message us on Telegram](https://t.me/dexoryn_12)** - We're here to help!
+
+- **Questions?** Get quick answers about the Polymarket trading bot
+- **Issues?** Report bugs or get troubleshooting help
+- **Help?** Need assistance with configuration or setup
+- **Collaboration?** Interested in partnerships or custom development
+
+**Telegram:** [@dexoryn_12](https://t.me/dexoryn_12) | **Response Time:** Typically within 24 hours
+
+---
+
 ## Overview
 
-The Polymarket Trading Bot is a sophisticated automated trading system designed for the Polymarket prediction market platform. It employs advanced mempool monitoring techniques to detect pending trades and execute frontrunning strategies with priority gas pricing, enabling users to capitalize on trading opportunities before they are confirmed on-chain.
+The **Polymarket Trading Bot** is a sophisticated automated trading system designed specifically for the Polymarket prediction market platform. This advanced **Polymarket trading bot** employs cutting-edge mempool monitoring techniques to detect pending trades and execute frontrunning strategies with priority gas pricing, enabling users to capitalize on trading opportunities before they are confirmed on-chain.
+
+Whether you're looking for a **Polymarket bot** to automate your trading strategy or want to frontrun trades with intelligent gas pricing, this **Polymarket trading bot** provides enterprise-grade features for professional traders.
 
 ### Key Capabilities
+
+This **Polymarket trading bot** offers:
 
 - **Real-time Mempool Monitoring**: Continuously monitors Polygon mempool for pending Polymarket transactions
 - **Hybrid Detection System**: Combines mempool monitoring with Polymarket API polling for comprehensive trade detection
 - **Intelligent Frontrunning**: Executes trades with configurable size multipliers and priority gas pricing
 - **Robust Error Handling**: Comprehensive validation, retry logic, and error recovery mechanisms
 - **Production-Ready**: Built with TypeScript, includes comprehensive validation and logging
+
+The **Polymarket bot** is optimized for high-frequency trading scenarios and provides the reliability needed for professional trading operations.
 
 ## Table of Contents
 
@@ -33,6 +54,8 @@ The Polymarket Trading Bot is a sophisticated automated trading system designed 
 - [Author & Support](#author--support)
 
 ## Features
+
+This **Polymarket trading bot** provides comprehensive features for automated trading on Polymarket:
 
 ### Core Functionality
 
@@ -52,9 +75,11 @@ The Polymarket Trading Bot is a sophisticated automated trading system designed 
 - 🔧 **CLI Tools**: Utility commands for allowance management and manual operations
 - 🔧 **Type Safety**: Full TypeScript implementation with comprehensive type definitions
 
+This **Polymarket bot** is designed to handle complex trading scenarios while maintaining reliability and performance.
+
 ## Prerequisites
 
-Before installing and running the bot, ensure you have the following:
+Before installing and running this **Polymarket trading bot**, ensure you have the following:
 
 - **Node.js**: Version 18.0.0 or higher ([Download](https://nodejs.org/))
 - **npm**: Node Package Manager (included with Node.js)
@@ -63,6 +88,8 @@ Before installing and running the bot, ensure you have the following:
   - POL/MATIC balance for gas fees (recommended: 0.2-1.0 POL minimum)
 - **RPC Endpoint**: A Polygon RPC endpoint that supports pending transaction monitoring
   - Recommended providers: [Infura](https://infura.io), [Alchemy](https://alchemy.com), [QuickNode](https://quicknode.com)
+
+> 💡 **Tip**: For optimal performance of this **Polymarket bot**, use a premium RPC provider that supports WebSocket connections and pending transaction monitoring.
 
 ## Installation
 
@@ -198,21 +225,29 @@ polymarket-trading-bot/
 
 ### Core Components
 
+This **Polymarket trading bot** architecture consists of:
+
 - **MempoolMonitorService**: Monitors Polygon mempool for pending transactions
 - **TradeExecutorService**: Executes frontrunning trades with priority gas pricing
 - **Validation Utilities**: Comprehensive validation for addresses, keys, and configuration
 - **CLOB Client Factory**: Manages Polymarket CLOB client initialization
 
+The **Polymarket bot** is built with modularity in mind, making it easy to extend and customize for specific trading strategies.
+
 ### How It Works
 
-1. **Monitoring Phase**: The bot continuously monitors both the Polygon mempool and Polymarket API for pending trades from target addresses
-2. **Detection Phase**: When a pending trade is detected, the bot analyzes trade size, market conditions, and transaction status
+This **Polymarket trading bot** operates through a sophisticated multi-phase process:
+
+1. **Monitoring Phase**: The **Polymarket bot** continuously monitors both the Polygon mempool and Polymarket API for pending trades from target addresses
+2. **Detection Phase**: When a pending trade is detected, the **Polymarket trading bot** analyzes trade size, market conditions, and transaction status
 3. **Validation Phase**: The bot validates sufficient balances, trade size thresholds, and market availability
-4. **Execution Phase**: If conditions are met, the bot executes a frontrunning trade with:
+4. **Execution Phase**: If conditions are met, the **Polymarket bot** executes a frontrunning trade with:
    - Calculated frontrun size (based on multiplier)
    - Priority gas pricing (based on gas multiplier)
    - Immediate order submission
-5. **Monitoring Phase**: The bot tracks execution status and handles retries if needed
+5. **Monitoring Phase**: The **Polymarket trading bot** tracks execution status and handles retries if needed
+
+This workflow ensures the **Polymarket bot** can react quickly to trading opportunities while maintaining reliability and error handling.
 
 ## Scripts
 
@@ -232,14 +267,16 @@ polymarket-trading-bot/
 
 ## Documentation
 
-For comprehensive documentation, including detailed setup instructions, troubleshooting guides, and advanced configuration options, please refer to:
+For comprehensive documentation on this **Polymarket trading bot**, including detailed setup instructions, troubleshooting guides, and advanced configuration options, please refer to:
 
-- **[Complete Guide](./docs/GUIDE.md)**: Detailed setup, configuration, and troubleshooting
+- **[Complete Guide](./docs/GUIDE.md)**: Detailed setup, configuration, and troubleshooting for the **Polymarket bot**
 - **[Project Structure](./PROJECT_STRUCTURE.md)**: Architecture and code organization
+
+Need help? **[Contact us on Telegram](https://t.me/dexoryn_12)** for personalized support with your **Polymarket trading bot** setup.
 
 ## Contributing
 
-Contributions are welcome! Please follow these guidelines:
+Contributions to this **Polymarket trading bot** are welcome! Please follow these guidelines:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -255,6 +292,8 @@ Contributions are welcome! Please follow these guidelines:
 - Update documentation for new features
 - Ensure all tests pass (if applicable)
 
+Have questions about contributing? **[Reach out on Telegram](https://t.me/dexoryn_12)** to discuss your ideas for improving the **Polymarket bot**.
+
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
@@ -263,18 +302,55 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 **DexorynLab**
 
-- **Telegram**: [@dexoryn_12](https://t.me/dexoryn_12)
+### 📱 Contact & Support
 
-For support, questions, or feature requests, please reach out via Telegram.
+Need help with the **Polymarket trading bot**? We're here to assist!
+
+| What you need | Action |
+|---------------|--------|
+| **Questions** | Have questions about setup, configuration, or features? | [👉 Click here to ask](https://t.me/dexoryn_12) |
+| **Issues** | Found a bug or experiencing technical problems? | [👉 Click here to report](https://t.me/dexoryn_12) |
+| **Help** | Need assistance with installation or troubleshooting? | [👉 Click here for help](https://t.me/dexoryn_12) |
+| **Collaboration** | Interested in partnerships or custom development? | [👉 Click here to collaborate](https://t.me/dexoryn_12) |
+
+**Direct Contact:** [@dexoryn_12](https://t.me/dexoryn_12) on Telegram
+
+**Response Time:** Typically within 24 hours
 
 ## Disclaimer
 
-⚠️ **Important**: This software is provided as-is without any warranties. Trading cryptocurrencies and prediction markets involves substantial risk of loss. The use of this bot is at your own risk. The authors and contributors are not responsible for any financial losses incurred through the use of this software.
+⚠️ **Important**: This **Polymarket trading bot** software is provided as-is without any warranties. Trading cryptocurrencies and prediction markets involves substantial risk of loss. The use of this **Polymarket bot** is at your own risk. The authors and contributors are not responsible for any financial losses incurred through the use of this software.
 
 - Always test with small amounts before deploying with significant capital
-- Monitor the bot regularly and ensure proper configuration
+- Monitor the **Polymarket trading bot** regularly and ensure proper configuration
 - Understand the risks associated with automated trading
 - Comply with all applicable laws and regulations in your jurisdiction
+
+---
+
+## Need Help? Get in Touch! 📱
+
+Have questions, issues, need help, or want to collaborate? We're here to assist you!
+
+### Quick Contact Options
+
+| Need | Action | Link |
+|------|--------|------|
+| **Questions** | Get answers about setup, configuration, or features | [👉 Click here to ask questions](https://t.me/dexoryn_12) |
+| **Issues** | Report bugs, errors, or technical problems | [👉 Click here to report issues](https://t.me/dexoryn_12) |
+| **Help** | Need assistance with installation or troubleshooting | [👉 Click here to get help](https://t.me/dexoryn_12) |
+| **Collaboration** | Interested in partnerships or custom development | [👉 Click here to collaborate](https://t.me/dexoryn_12) |
+
+**Direct Telegram Contact:** [@dexoryn_12](https://t.me/dexoryn_12)
+
+> 💡 **Tip:** When contacting us, please include:
+> - Your question or issue description
+> - Any error messages you're seeing
+> - Your environment details (Node.js version, OS, etc.)
+> 
+> This helps us provide faster and more accurate support!
+
+**Response Time:** We typically respond within 24 hours.
 
 ---
 

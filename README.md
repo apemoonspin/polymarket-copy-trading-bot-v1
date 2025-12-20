@@ -10,14 +10,14 @@
 
 **Need help with setup, have questions, or want to collaborate?**
 
-👉 **[Message us on Telegram](https://t.me/dexoryn_12)** - We're here to help!
+👉 **[Message us on Telegram](https://t.me/dexorynlabs)** - We're here to help!
 
 - **Questions?** Get quick answers about the Polymarket trading bot
 - **Issues?** Report bugs or get troubleshooting help
 - **Help?** Need assistance with configuration or setup
 - **Collaboration?** Interested in partnerships or custom development
 
-**Telegram:** [@dexoryn_12](https://t.me/dexoryn_12) | **Response Time:** Typically within 24 hours
+**Telegram:** [@dexoryn_12](https://t.me/dexorynlabs) | **Response Time:** Typically within 24 hours
 
 ---
 
@@ -292,7 +292,7 @@ Contributions to this **Polymarket trading bot** are welcome! Please follow thes
 - Update documentation for new features
 - Ensure all tests pass (if applicable)
 
-Have questions about contributing? **[Reach out on Telegram](https://t.me/dexoryn_12)** to discuss your ideas for improving the **Polymarket bot**.
+Have questions about contributing? **[Reach out on Telegram](https://t.me/dexorynlabs)** to discuss your ideas for improving the **Polymarket bot**.
 
 ## License
 
@@ -308,12 +308,12 @@ Need help with the **Polymarket trading bot**? We're here to assist!
 
 | What you need | Action |
 |---------------|--------|
-| **Questions** | Have questions about setup, configuration, or features? | [👉 Click here to ask](https://t.me/dexoryn_12) |
-| **Issues** | Found a bug or experiencing technical problems? | [👉 Click here to report](https://t.me/dexoryn_12) |
-| **Help** | Need assistance with installation or troubleshooting? | [👉 Click here for help](https://t.me/dexoryn_12) |
-| **Collaboration** | Interested in partnerships or custom development? | [👉 Click here to collaborate](https://t.me/dexoryn_12) |
+| **Questions** | Have questions about setup, configuration, or features? | [👉 Click here to ask](https://t.me/dexorynlabs) |
+| **Issues** | Found a bug or experiencing technical problems? | [👉 Click here to report](https://t.me/dexorynlabs) |
+| **Help** | Need assistance with installation or troubleshooting? | [👉 Click here for help](https://t.me/dexorynlabs) |
+| **Collaboration** | Interested in partnerships or custom development? | [👉 Click here to collaborate](https://t.me/dexorynlabs) |
 
-**Direct Contact:** [@dexoryn_12](https://t.me/dexoryn_12) on Telegram
+**Direct Contact:** [@dexoryn_12](https://t.me/dexorynlabs) on Telegram
 
 **Response Time:** Typically within 24 hours
 
@@ -336,12 +336,12 @@ Have questions, issues, need help, or want to collaborate? We're here to assist 
 
 | Need | Action | Link |
 |------|--------|------|
-| **Questions** | Get answers about setup, configuration, or features | [👉 Click here to ask questions](https://t.me/dexoryn_12) |
-| **Issues** | Report bugs, errors, or technical problems | [👉 Click here to report issues](https://t.me/dexoryn_12) |
-| **Help** | Need assistance with installation or troubleshooting | [👉 Click here to get help](https://t.me/dexoryn_12) |
-| **Collaboration** | Interested in partnerships or custom development | [👉 Click here to collaborate](https://t.me/dexoryn_12) |
+| **Questions** | Get answers about setup, configuration, or features | [👉 Click here to ask questions](https://t.me/dexorynlabs) |
+| **Issues** | Report bugs, errors, or technical problems | [👉 Click here to report issues](https://t.me/dexorynlabs) |
+| **Help** | Need assistance with installation or troubleshooting | [👉 Click here to get help](https://t.me/dexorynlabs) |
+| **Collaboration** | Interested in partnerships or custom development | [👉 Click here to collaborate](https://t.me/dexorynlabs) |
 
-**Direct Telegram Contact:** [@dexoryn_12](https://t.me/dexoryn_12)
+**Direct Telegram Contact:** [@dexoryn_12](https://t.me/dexorynlabs)
 
 > 💡 **Tip:** When contacting us, please include:
 > - Your question or issue description
